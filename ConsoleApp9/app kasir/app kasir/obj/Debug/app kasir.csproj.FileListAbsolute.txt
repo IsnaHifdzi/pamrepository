@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\app kasir\app kasir\bin\Debug\app kasir.exe.config
+C:\Users\acer\source\repos\app kasir\app kasir\bin\Debug\app kasir.exe
+C:\Users\acer\source\repos\app kasir\app kasir\bin\Debug\app kasir.pdb
+C:\Users\acer\source\repos\app kasir\app kasir\obj\Debug\app kasir.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\app kasir\app kasir\obj\Debug\app_kasir.FormLogin.resources
+C:\Users\acer\source\repos\app kasir\app kasir\obj\Debug\app_kasir.FormMenuUtama.resources
+C:\Users\acer\source\repos\app kasir\app kasir\obj\Debug\app_kasir.Properties.Resources.resources
+C:\Users\acer\source\repos\app kasir\app kasir\obj\Debug\app kasir.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\app kasir\app kasir\obj\Debug\app kasir.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\app kasir\app kasir\obj\Debug\app kasir.exe
+C:\Users\acer\source\repos\app kasir\app kasir\obj\Debug\app kasir.pdb
+C:\Users\acer\source\repos\app kasir\app kasir\obj\Debug\app_kasir.FormMasterKasir.resources
+C:\Users\acer\source\repos\app kasir\app kasir\obj\Debug\app_kasir.Form_Master_Barang.resources
+C:\Users\acer\source\repos\app kasir\app kasir\obj\Debug\app_kasir.FormMasterPenjualan.resources
+C:\Users\acer\source\repos\app kasir\app kasir\obj\Debug\app_kasir.dialogbarang.resources

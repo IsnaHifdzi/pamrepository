@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\AplikasiKasir.exe
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\AplikasiKasir.deps.json
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\AplikasiKasir.runtimeconfig.json
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\AplikasiKasir.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\AplikasiKasir.dll
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\AplikasiKasir.pdb
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\AplikasiKasir.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\AplikasiKasir.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\AplikasiKasir.AssemblyInfo.cs
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\AplikasiKasir.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\AplikasiKasir.dll
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\AplikasiKasir.pdb
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\AplikasiKasir.genruntimeconfig.cache

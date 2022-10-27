@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\administrasi sekolah.exe
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\administrasi sekolah.deps.json
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\administrasi sekolah.runtimeconfig.json
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\administrasi sekolah.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\administrasi sekolah.dll
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\administrasi sekolah.pdb
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\administrasi sekolah.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\administrasi sekolah.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\administrasi sekolah.AssemblyInfo.cs
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\administrasi sekolah.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\administrasi sekolah.dll
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\administrasi sekolah.pdb
+C:\Users\acer\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\administrasi sekolah.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\koneksi\koneksi\bin\Debug\koneksi.exe.config
+C:\Users\acer\source\repos\koneksi\koneksi\bin\Debug\koneksi.exe
+C:\Users\acer\source\repos\koneksi\koneksi\bin\Debug\koneksi.pdb
+C:\Users\acer\source\repos\koneksi\koneksi\obj\Debug\koneksi.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\koneksi\koneksi\obj\Debug\koneksi.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\koneksi\koneksi\obj\Debug\koneksi.exe
+C:\Users\acer\source\repos\koneksi\koneksi\obj\Debug\koneksi.pdb

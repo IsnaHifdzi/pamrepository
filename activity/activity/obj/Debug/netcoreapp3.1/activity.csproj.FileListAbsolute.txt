@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\activity\activity\bin\Debug\netcoreapp3.1\activity.exe
+C:\Users\acer\source\repos\activity\activity\bin\Debug\netcoreapp3.1\activity.deps.json
+C:\Users\acer\source\repos\activity\activity\bin\Debug\netcoreapp3.1\activity.runtimeconfig.json
+C:\Users\acer\source\repos\activity\activity\bin\Debug\netcoreapp3.1\activity.runtimeconfig.dev.json
+C:\Users\acer\source\repos\activity\activity\bin\Debug\netcoreapp3.1\activity.dll
+C:\Users\acer\source\repos\activity\activity\bin\Debug\netcoreapp3.1\activity.pdb
+C:\Users\acer\source\repos\activity\activity\obj\Debug\netcoreapp3.1\activity.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\activity\activity\obj\Debug\netcoreapp3.1\activity.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\activity\activity\obj\Debug\netcoreapp3.1\activity.AssemblyInfo.cs
+C:\Users\acer\source\repos\activity\activity\obj\Debug\netcoreapp3.1\activity.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\activity\activity\obj\Debug\netcoreapp3.1\activity.dll
+C:\Users\acer\source\repos\activity\activity\obj\Debug\netcoreapp3.1\activity.pdb
+C:\Users\acer\source\repos\activity\activity\obj\Debug\netcoreapp3.1\activity.genruntimeconfig.cache

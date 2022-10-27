@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\bin\Debug\exericespabd2.exe.config
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\bin\Debug\exericespabd2.exe
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\bin\Debug\exericespabd2.pdb
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\obj\Debug\exericespabd2.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\obj\Debug\exericespabd2.Form1.resources
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\obj\Debug\exericespabd2.Properties.Resources.resources
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\obj\Debug\exericespabd2.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\obj\Debug\exericespabd2.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\obj\Debug\exericespabd2.exe
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\obj\Debug\exericespabd2.pdb
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\obj\Debug\exericespabd2.Form2.resources
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\obj\Debug\exericespabd2.Form3.resources
+C:\Users\acer\source\repos\exericespabd2\exericespabd2\obj\Debug\exericespabd2.Form4.resources

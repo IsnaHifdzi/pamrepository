@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Activity 1 kelas C bubble short sample/1.0.0": {
+        "runtime": {
+          "Activity 1 kelas C bubble short sample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity 1 kelas C bubble short sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

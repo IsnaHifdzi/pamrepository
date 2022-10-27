@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\bin\Debug\netcoreapp3.1\EXCERCISE.exe
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\bin\Debug\netcoreapp3.1\EXCERCISE.deps.json
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\bin\Debug\netcoreapp3.1\EXCERCISE.runtimeconfig.json
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\bin\Debug\netcoreapp3.1\EXCERCISE.runtimeconfig.dev.json
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\bin\Debug\netcoreapp3.1\EXCERCISE.dll
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\bin\Debug\netcoreapp3.1\EXCERCISE.pdb
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\obj\Debug\netcoreapp3.1\EXCERCISE.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\obj\Debug\netcoreapp3.1\EXCERCISE.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\obj\Debug\netcoreapp3.1\EXCERCISE.AssemblyInfo.cs
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\obj\Debug\netcoreapp3.1\EXCERCISE.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\obj\Debug\netcoreapp3.1\EXCERCISE.dll
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\obj\Debug\netcoreapp3.1\EXCERCISE.pdb
+C:\Users\acer\source\repos\EXCERCISE\EXCERCISE\obj\Debug\netcoreapp3.1\EXCERCISE.genruntimeconfig.cache

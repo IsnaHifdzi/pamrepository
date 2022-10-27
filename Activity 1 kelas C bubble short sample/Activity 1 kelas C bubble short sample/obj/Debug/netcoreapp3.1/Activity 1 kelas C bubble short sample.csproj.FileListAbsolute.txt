@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\bin\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.exe
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\bin\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.deps.json
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\bin\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.runtimeconfig.json
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\bin\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.runtimeconfig.dev.json
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\bin\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.dll
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\bin\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.pdb
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\obj\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\obj\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\obj\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.AssemblyInfo.cs
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\obj\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\obj\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.dll
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\obj\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.pdb
+C:\Users\acer\source\repos\Activity 1 kelas C bubble short sample\Activity 1 kelas C bubble short sample\obj\Debug\netcoreapp3.1\Activity 1 kelas C bubble short sample.genruntimeconfig.cache
